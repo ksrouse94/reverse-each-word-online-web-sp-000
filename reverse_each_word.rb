@@ -4,4 +4,5 @@ def reverse_each_word(str)
   sentence.each do |word|
     reverse << word
   end  
+  puts reverse
 end  
