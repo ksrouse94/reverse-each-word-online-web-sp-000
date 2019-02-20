@@ -1,4 +1,4 @@
 def reverse_each_word(str)
-  sentence = str.split("")
+  sentence = str.split(" ")
   puts sentence.inspect
 end  
