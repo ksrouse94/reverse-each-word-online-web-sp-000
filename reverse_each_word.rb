@@ -5,5 +5,5 @@ def reverse_each_word(str)
     word.reverse!
     reverse << word
   end  
-  puts reverse
+  return reverse
 end  
